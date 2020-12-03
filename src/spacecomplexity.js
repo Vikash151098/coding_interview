@@ -13,4 +13,4 @@ function arrayofHiNTimes(n) {
   }
   return hiArray;
 }
-console.log(arrayofHiNTimes(6));
+console.log(arrayofHiNTimes(10000000));
