@@ -1,25 +1,19 @@
-# The 3 pillars of good code:-
+# Interview Cheat Sheet
+
+## The 3 pillars of good code:-
 
 1. Readable
 2. Time Complexity
 3. Space Complexity
 
-# What skills interviewer is looking for:
+## What skills interviewer is looking for:
 
-## Analytic Skills -
-
-How can you think through problems and analyze things?
-
-## Coding Skills -
-
-Do you code well, by writing clean, simple, organized, readable code?
-
-## Technical knowledge -
-
-Do you know the fundamentals of the job you're applying for?
+**Analytic Skills -** How can you think through problems and analyze things?
+**Coding Skills -** Do you code well, by writing clean, simple, organized, readable code?
+**Technical knowledge -** Do you know the fundamentals of the job you're applying for?
 Communication skills: Does your personality match the companies’ culture?
 
-# Step By Step through a problem:
+## Step By Step through a problem:
 
 1. When the interviewer says the question, write down the key points at the top (i.e. sorted
    array). Make sure you have all the details. Show how organized you are.
@@ -67,7 +61,7 @@ Communication skills: Does your personality match the companies’ culture?
     read certain chunks of the input from disk into memory, write the output back to disk and
     combine them later.
 
-# Good code checklist:
+## Good code checklist:
 
 1.  It works
 2.  Good use of data structures
@@ -78,7 +72,7 @@ Communication skills: Does your personality match the companies’ culture?
 6.  Low Space Complexity --> Recursion can cause stack overflow, copying of large arrays may
     exceed memory of machine
 
-# Heurestics to ace the question:
+## Heurestics to ace the question:
 
 1. Hash Maps are usually the answer to improve Time Complexity
 2. If it's a sorted array, use Binary tree to achieve O(log N). Divide and Conquer - Divide a data set
@@ -94,6 +88,5 @@ Communication skills: Does your personality match the companies’ culture?
    can get a time optimization to the process. In programming, you often times can use up a little bit
    more space to get faster time
 
-# And always remember: Communicate your thought process as much as possible. Don’t worry about
-
+**And always remember:** Communicate your thought process as much as possible. Don’t worry about
 finishing it fast. Every part of the interview matters.
